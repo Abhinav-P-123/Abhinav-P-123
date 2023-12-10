@@ -12,8 +12,8 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 *   🧠  I'm learning PostgreSQL
 *   🤝  I'm open to collaborating on MERN Stack Projects
 *   ⚡  And I am a big fan of Artificial Intelligence### Skills 
-##Skills
-###Frontend
+<h1>Skills</h1>
+<h2>Frontend</h2>
 <div>
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react" />
 </div>
