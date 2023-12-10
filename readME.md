@@ -16,6 +16,6 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 <h3>Frontend</h3>
 <div>
   <pre>
-    <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react" />
   </pre>
 </div>
