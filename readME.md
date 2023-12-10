@@ -15,5 +15,7 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 <h2>Skills</h2>
 <h3>Frontend</h3>
 <div>
-  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react" />
+  <pre>
+    <img src="https://skillicons.dev/icons?i=html" /> <img src="https://skillicons.dev/icons?i=css" />
+  </pre>
 </div>
