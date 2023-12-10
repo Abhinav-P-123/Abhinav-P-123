@@ -14,6 +14,5 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 *   ⚡  And I am a big fan of Artificial Intelligence### Skills 
 <h2>Skills</h2>
 <h3>Frontend</h3>
-<div>
-    <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react" dragable="off"/>
-</div>
+
+![Image Alt Text]([path/to/your/image.png](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react))
