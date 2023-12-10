@@ -11,7 +11,7 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 *   🚀  I'm currently working on [A Dictionary App](http://dictionary-plxd.onrender.com)
 *   🧠  I'm learning PostgreSQL
 *   🤝  I'm open to collaborating on MERN Stack Projects
-*   ⚡  And I am a big fan of Artificial Intelligence### Skills 
+*   ⚡  And I am a big fan of Artificial Intelligence
 <h2>Skills</h2>
 
 ![Image Alt Text](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,bootstrap,jquery,py,c,postman,git)
