@@ -15,4 +15,4 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 <h2>Skills</h2>
 <h3>Frontend</h3>
 
-![Image Alt Text]([path/to/your/image.png](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react))
+![Image Alt Text](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react)
