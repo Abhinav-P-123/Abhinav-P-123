@@ -14,4 +14,4 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 *   ⚡  And I am a big fan of Artificial Intelligence
 <h2>Skills</h2>
 
-![Image Alt Text](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,bootstrap,jquery,py,c,postman,git)
+![Image Alt Text](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,bootstrap,jquery,py,c,postman,git&theme=dark)
