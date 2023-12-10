@@ -13,6 +13,10 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 *   🤝  I'm open to collaborating on MERN Stack Projects
 *   ⚡  And I am a big fan of Artificial Intelligence### Skills 
 <h2>Skills</h2>
+<h3>Tech Stack</h3>
+
+![Alt Text](https://skillicons.dev/icons?i=mongodb,express,react,nodejs)
+
 <h3>Frontend</h3>
 
-![Image Alt Text](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery,react)
+![Image Alt Text](https://skillicons.dev/icons?i=html,css,js,bootstrap,jquery)
