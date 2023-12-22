@@ -13,5 +13,5 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 *   🤝  I'm open to collaborating on MERN Stack Projects
 *   ⚡  And I am a big fan of Artificial Intelligence
 <h2>Skills</h2>
-![](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
+![Image Alt Text](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
 ![Image Alt Text](https://skillicons.dev/icons?i=mongodb,express,react,nodejs,html,css,js,bootstrap,jquery,py,c,postman,git&theme=dark)
