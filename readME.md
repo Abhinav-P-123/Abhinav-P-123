@@ -14,11 +14,9 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 *   ⚡  And I am a big fan of Artificial Intelligence
 <h2>Socials</h2>
 
-![Image Alt Text](https://img.shields.io/badge/Frontend%20Mentor-3F54A3.svg?style=for-the-badge&logo=Frontend-Mentor&logoColor=white)
-![Image Alt Text](https://img.shields.io/badge/Discord-5865F2.svg?style=for-the-badge&logo=Discord&logoColor=white)
-![Image Alt Text](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
-![Image Alt Text](https://img.shields.io/badge/Instagram-E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)
-![Image Alt Text](https://img.shields.io/badge/Twitter-1D9BF0.svg?style=for-the-badge&logo=Twitter&logoColor=white)
+[![Image Alt Text](https://skillicons.dev/icons?i=instagram)](https://www.instagram.com/cool_webdev/)
+[![Image Alt Text](https://skillicons.dev/icons?i=github)](https://github.com/Palugula-Abhinav)
+[![Image Alt Text](https://skillicons.dev/icons?i=twitter)](https://twitter.com/APalugula48675)
 <h2>Skills</h2>
 
 ![Image Alt Text](https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white)
@@ -36,3 +34,5 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 ![Image Alt Text](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
 ![Image Alt Text](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Image Alt Text](https://img.shields.io/badge/Hyper-000000.svg?style=for-the-badge&logo=Hyper&logoColor=white)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palugula-Abhinav&langs_count=20&layout=compact&theme=midnight-purple&align=right&width=100%&hide_border=true)
