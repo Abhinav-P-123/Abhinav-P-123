@@ -35,4 +35,4 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 ![Image Alt Text](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Image Alt Text](https://img.shields.io/badge/Hyper-000000.svg?style=for-the-badge&logo=Hyper&logoColor=white)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palugula-Abhinav&langs_count=20&layout=compact&theme=midnight-purple&align=right&width=100%&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palugula-Abhinav&langs_count=20&layout=compact&theme=holi&align=right&width=100%&hide_border=true)
