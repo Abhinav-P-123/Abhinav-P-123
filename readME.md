@@ -8,7 +8,7 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [abhinav.palugula@gmail.com](mailto:abhinav.palugula@gmail.com)
-*   🚀  I'm currently working on [A Dictionary App](http://dictionary-plxd.onrender.com)
+*   🚀  I'm currently working on [A Next.js based Pizza App]
 *   🧠  I'm learning PostgreSQL
 *   🤝  I'm open to collaborating on MERN Stack Projects
 *   ⚡  And I am a big fan of Artificial Intelligence
@@ -34,5 +34,6 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 ![Image Alt Text](https://img.shields.io/badge/jQuery-0769AD.svg?style=for-the-badge&logo=jQuery&logoColor=white)
 ![Image Alt Text](https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white)
 ![Image Alt Text](https://img.shields.io/badge/Hyper-000000.svg?style=for-the-badge&logo=Hyper&logoColor=white)
+![Image Alt Text](https://img.shields.io/badge/Hyper-000000.svg?style=for-the-badge&logo=Next&logoColor=white)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Palugula-Abhinav&langs_count=20&layout=compact&theme=holi&align=right&width=100%&hide_border=true)
