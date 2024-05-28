@@ -8,7 +8,7 @@ I'm a teenage enthusiast diving into full-stack web development. Fueled by curio
 
 *   🌍  I'm based in India
 *   ✉️  You can contact me at [abhinav.palugula@gmail.com](mailto:abhinav.palugula@gmail.com)
-*   🚀  I'm currently working on [A Next.js based Pizza App]
+*   🚀  I'm currently working on [A Next.js based Pizza App]()
 *   🧠  I'm learning PostgreSQL
 *   🤝  I'm open to collaborating on MERN Stack Projects
 *   ⚡  And I am a big fan of Artificial Intelligence
